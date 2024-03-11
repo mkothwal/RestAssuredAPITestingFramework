@@ -1,5 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a320701d-f6e1-414d-929f-77845b00c07f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/12acb5f3-d54b-493b-858c-f443ad168e12-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1521bef0-e76b-4f57-8365-d86e82c1d5b6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/27f6af53-ef53-435c-8898-85a76bbef8b3-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/35b6dc3e-902e-475b-9ecf-c8cdae33a45d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/43d24e53-46bd-48a2-a5a0-5cb781d52289-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47847d66-6e87-45d7-97bd-747725480f00-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/51247789-3aa9-4ffb-9bf4-9011b7d05992-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/54f0afe6-2c27-4a99-b6b2-6df5d3a83113-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/64ea4481-d846-4bfd-ac7f-fce18fad6309-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/667ae1bf-dffa-48a8-9c3e-ae26974a57ec-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/792c3569-8299-4997-a291-f30ebbf3a38f-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/82d4b622-6c62-4888-9617-5d7fde822bb7-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/89a6ad65-ca7a-4843-8e1a-4d7b22a209e8-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9c9e663d-8386-4b0a-bd6a-4ce540d27bb0-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa69d976-f7c1-4eea-b70c-6a9341de2a23-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ac4dc46c-8226-497a-9d53-e61b99215f9a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b19667d1-2eeb-4695-8bc8-9ea3bf2e018a-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b1c443fa-32d9-44cc-ad5f-4603747cae87-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b7d34c49-d07d-4098-add8-13e5ce4eb6ff-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9828407-a11b-4e70-a33e-ea2a897252a6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bedf7acd-eecd-4901-83a1-e3cec889fbb1-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c34a6269-1e39-4010-8165-8f1820792a92-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c3e812ae-1fa3-40f5-b9ef-d9c6bd9b4ebd-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d6919dfe-ae9c-48e4-8dc6-ceeab2c8c500-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8f1eb0a-e052-44b8-830a-0ee03d90b43c-attachment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/applogs.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/applogs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/AnnotationTransformerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/AnnotationTransformerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/RestAssuredListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/RestAssuredListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/RetryAnalyzerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/listener/RetryAnalyzerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/pojos/Booking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/pojos/Booking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/pojos/BookingDates.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/pojos/BookingDates.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/AllureReportGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/AllureReportGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/BasicAuth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/BasicAuth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/Cookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/Cookies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/CreateAPIRequestDynamically.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/CreateAPIRequestDynamically.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/CreateDynamicTestNGSuiteFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/CreateDynamicTestNGSuiteFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingCSVFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingCSVFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingExcelFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingExcelFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingJsonFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/DataDrivenTestingUsingJsonFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/EndToEndAPITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/EndToEndAPITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/FileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/FileUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/GetAPIRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/GetAPIRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PatchAPIRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PatchAPIRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequestUsingFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequestUsingFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequestUsingPojos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PostAPIRequestUsingPojos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PutAPIRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/PutAPIRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/StepRetry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/StepRetry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/TestRetry.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/tests/TestRetry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/FileNameConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/FileNameConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/RestAPIHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testautomation/apitesting/utils/RestAPIHelper.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2dX2NksKm5XUUZGSNn0PaFng3rt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Office/All_Automation_Repos/RestAssured_Framework/RestAssuredAPITestingFramework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="RestAssuredAPITestingFramework" />
@@ -29,5 +130,23 @@
         <item itemvalue="TestNG.C:/Office/All_Automation_Repos/RestAssured_Framework/RestAssuredAPITestingFramework/suites/allurereportapitest.xml" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a320701d-f6e1-414d-929f-77845b00c07f" name="Changes" comment="" />
+      <created>1710140064869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710140064869</updated>
+      <workItem from="1710140065904" duration="953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
