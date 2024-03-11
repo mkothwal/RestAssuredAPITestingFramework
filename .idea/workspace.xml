@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RestAssuredAPITestingFramework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RestAssuredAPITestingFramework" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Office/All_Automation_Repos/RestAssured_Framework/RestAssuredAPITestingFramework/suites/allurereportapitest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAPITestingTutorial" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/suites/allurereportapitest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Office/All_Automation_Repos/RestAssured_Framework/RestAssuredAPITestingFramework/suites/allurereportapitest.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
